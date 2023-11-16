@@ -1,3 +1,13 @@
-### Hi there 👋
+# Hello everyone! 😊
 
-![Minions GIF](https://media.giphy.com/media/XGsGfW3pc4fdF3i3K9/giphy.gif)
+## About Me
+
+👨‍💻 **Current Role:** Junior Full Stack Developer
+
+💻 **Main Programming Language:** JavaScript
+
+⌛ **IT Experience:** 4 years
+
+📍 **Currently Working at:** [Haaify (Brazil)](https://haaify.com/)
+
+![Minions GIF](https://media.giphy.com/media/lryBiUbEe6BBOyYXyX/giphy.gif)
