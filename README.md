@@ -1,1 +1,1 @@
-![Minions GIF](https://media.giphy.com/media/lryBiUbEe6BBOyYXyX/giphy.gif)
+![Minions GIF](https://media.giphy.com/media/smJ0MPiZfIojm/giphy.gif)
